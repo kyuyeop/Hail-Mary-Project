@@ -1,0 +1,10 @@
+{
+    "name": "hail-mary-project",
+    "displayName": "Hail Mary Project",
+    "author": "kozem2133",
+    "description": "Adding some blocks in the novel, Project Hail Mary.",
+    "version": "1.0",
+    "minGameVersion": "126",
+    "main": "hmp",
+    "java": true
+}
