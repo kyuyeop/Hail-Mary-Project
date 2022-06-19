@@ -25,7 +25,6 @@ public class NewBlocks {
             craftTime = 60.0f;
             hasPower = true;
             hasLiquids = true;
-            consumePower(2.0f);
         }};
     }
 }
