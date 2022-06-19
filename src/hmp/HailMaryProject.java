@@ -1,7 +1,6 @@
 package hmp;
 
 import hmp.content.*;
-import mindustry.ctype.*;
 import mindustry.mod.*;
 import static mindustry.Vars.*;
 
