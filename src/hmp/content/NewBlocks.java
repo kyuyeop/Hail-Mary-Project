@@ -10,7 +10,7 @@ import mindustry.gen.*;
 import mindustry.graphics.*;
 import mindustry.type.*;
 import mindustry.world.*;
-import mindustry.world.consumers.*;
+import mindustry.world.Block.*;
 import mindustry.world.blocks.production.*;
 import mindustry.world.draw.*;
 import mindustry.world.meta.*;
@@ -26,7 +26,7 @@ public class NewBlocks {
             craftTime = 60.0f;
             hasPower = true;
             hasLiquids = true;
-            ConsumePower(2f);
+            consumesPower(2f);
         }};
     }
 }
